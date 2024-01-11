@@ -1,1 +1,1 @@
-MNIST data using Generative adversial networks
+MNIST data using Generative adversial networks(GAN's)
